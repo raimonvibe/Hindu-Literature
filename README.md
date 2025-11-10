@@ -1,5 +1,14 @@
 # Hindu Literatuur Website
 
+[![Hindu Literature](hindu.png)](https://hindu-literature.vercel.app/)
+
+# Hindu Literature
+
+A serene and modern web application for exploring classic Hindu texts and scriptures, built with Next.js, TypeScript, and Tailwind CSS.
+
+🔗 **Live Demo**: [https://hindu-literature.vercel.app/](https://hindu-literature.vercel.app/)
+
+
 Een prachtige, responsive Next.js website voor het verkennen van heilige Hindoeïstische geschriften.
 
 ## Kenmerken
